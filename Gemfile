@@ -31,8 +31,8 @@ group :development do
   gem 'rb-fsevent'
   gem 'growl'
 
-  gem 'poltergeist',
-    git: 'https://github.com/jonleighton/poltergeist.git'
+  # gem 'poltergeist',
+  #git: 'https://github.com/jonleighton/poltergeist.git'
 
   gem 'spring'
   gem 'spring-commands-rspec'
